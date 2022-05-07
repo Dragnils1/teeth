@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /
+
+
+Disallow: /super/
+Disallow: /assets/components/
+Disallow: /core/
+Disallow: /connectors/
+Disallow: /index.php
+Disallow: /index.html
+Disallow: /index
+Disallow: /textolite
+Disallow: *?
+Host: https://braces.diamond-stom.ru
+Sitemap: https://braces.diamond-stom.ru/sitemap.xml
